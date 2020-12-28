@@ -1,6 +1,6 @@
 # VELOS - IDS Evaluation Dataset Generator
 
-![alt tag](https://github.com/fsiamp/velos/raw/master/logo.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/velos/main/logo.png)
 
 VELOS is a tool that helps you generate and export intrusion evaluation datasets. 
 
